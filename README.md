@@ -37,7 +37,7 @@ Hardware – PCs, Cyclone II , USB flasher
 ![Screenshot 2024-11-14 213937](https://github.com/user-attachments/assets/bd946e23-70b1-491c-b812-c25b1918abc0)
 
 
-### **TRUTH TABLE**
+### **TRUTH TABLE:**
 
 ![WhatsApp Image 2024-11-14 at 21 35 26_7b288ed1](https://github.com/user-attachments/assets/23dc7096-a7d8-4273-9fe2-6f398d2639a7)
 
